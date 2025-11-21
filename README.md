@@ -66,17 +66,11 @@ expo start
 Use Android Emulator, iOS Simulator, or Expo Go on your smartphone.
 
 How to Use
-1 - When accessing the project, you will see the Home screen.
+When accessing the project, you will see the Home screen containing banners, products, and restaurants
+
+
 <img width="492" height="1021" alt="1" src="https://github.com/user-attachments/assets/ff557088-8397-48f4-a5d2-9f350f6996e3" />
 <img width="500" height="1029" alt="2" src="https://github.com/user-attachments/assets/e509c881-cbf0-4aff-9e5a-79acf78ec942" />
-
-
-
-
-
-
-
-2 - You can browse restaurants.
 <img width="505" height="1025" alt="3" src="https://github.com/user-attachments/assets/2b95df1b-d81e-4372-b50f-5f009e60ece9" />
 
 
