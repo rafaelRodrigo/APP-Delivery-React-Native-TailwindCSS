@@ -1,50 +1,108 @@
-# Welcome to your Expo app 👋
+APP Delivery – React Native + TailwindCSS
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This application is a mobile delivery app built with React Native and TailwindCSS.
+It was developed as my first project using this stack, focusing on componentization, UI building, navigation, and a clean mobile interface.
 
-## Get started
+Technology
 
-1. Install dependencies
+Here are the technologies used in this project:
 
-   ```bash
-   npm install
-   ```
+React Native
 
-2. Start the app
+Expo
 
-   ```bash
-   npx expo start
-   ```
+TailwindCSS (NativeWind)
 
-In the output, you'll find options to open the app in a
+JavaScript
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Expo Router
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+React Navigation
 
-## Get a fresh project
+Node.js
 
-When you're ready, run:
+Services Used
 
-```bash
-npm run reset-project
-```
+GitHub
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Libraries Used
 
-## Learn more
+nativewind – TailwindCSS for React Native
 
-To learn more about developing your project with Expo, look at the following resources:
+expo-router – Routing system
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+expo/vector-icons – Icons
 
-## Join the community
+react-native-safe-area-context
 
-Join our community of developers creating universal apps.
+react-native-gesture-handler
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+react-native-reanimated
+
+expo-status-bar
+
+Getting Started
+Dependencies
+
+To run this project, you need:
+
+Node.js
+
+Expo CLI
+
+Yarn or NPM
+
+Installation
+# Install dependencies
+npm install
+
+# or
+yarn install
+
+Run the project
+expo start
+
+
+Use Android Emulator, iOS Simulator, or Expo Go on your smartphone.
+
+How to Use
+1 - When accessing the project, you will see the Home screen.
+<img width="492" height="1021" alt="1" src="https://github.com/user-attachments/assets/ff557088-8397-48f4-a5d2-9f350f6996e3" />
+<img width="500" height="1029" alt="2" src="https://github.com/user-attachments/assets/e509c881-cbf0-4aff-9e5a-79acf78ec942" />
+
+
+
+
+
+
+
+2 - You can browse restaurants.
+<img width="505" height="1025" alt="3" src="https://github.com/user-attachments/assets/2b95df1b-d81e-4372-b50f-5f009e60ece9" />
+
+
+
+
+Features
+
+The main features of this application are:
+
+Mobile layout built with React Native
+
+TailwindCSS styling with NativeWind
+
+Navigation between pages
+
+Restaurant listing
+
+Product listing
+
+UI clean and responsive
+
+Componentized structure
+
+Links
+
+Repository:
+https://github.com/rafaelRodrigo/APP-Delivery-React-Native-TailwindCSS
+
+If you find any issue or improvement, feel free to open an Issue or Pull Request.
